@@ -49,5 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 Annie Campbell  
-This project was completed for **MTH 309: Linear Algebra** at the **University at Buffalo**, under the instruction of **Professor Placito**.  
+This project was completed as practice in Python for linear algebra tasks.  
 Developed independently with the assistance of ChatGPT for coding structure and documentation.
